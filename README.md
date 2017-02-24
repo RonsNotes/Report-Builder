@@ -1,2 +1,2 @@
 # SQL Report Builder 3.0
-![sql report builder 3 0](https://cloud.githubusercontent.com/assets/20413101/23226501/a0ca320a-f8ea-11e6-91bf-98aacdf21dca.png)
+![image](https://cloud.githubusercontent.com/assets/20413101/23313465/af2ef2b6-fa72-11e6-9c3e-a31ab2ff5a13.png)
